@@ -1,0 +1,6 @@
+Let s(b) = 11 - b. Let z be s(14). Let a = -21 + 29. Let p = 11 - a. Sort z, -4, p in decreasing order.
+p, z, -4
+Let c = 3 + -2. Suppose -2*w + 7 = -p, -5*p - 5*w + 30 = -2*w. Suppose -p*v = 8 + 7. Sort -3, c, v.
+v, -3, c
+Let b = 168 - 166. Sort b, -3, -165 in decreasing order.
+b, -3, -165

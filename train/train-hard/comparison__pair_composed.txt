@@ -1,0 +1,6 @@
+Let d be (-125)/(-4) - (-2)/8*3. Suppose 6*f = -106 - d. Let b = 42 + f. Are b and 19 unequal?
+False
+Let k = -12.4 + 0.4. Let g = 0 - k. Let c = 16 - g. Which is bigger: -5 or c?
+c
+Suppose -w + 4*w = 0. Let o = -1502/17 + 12135/136. Which is bigger: w or o?
+o

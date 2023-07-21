@@ -1,0 +1,6 @@
+Suppose 5*z - 16312 = 2653. Is z composite?
+False
+Let z be 4 + -5 + 4 + 9 + 3. Suppose 0 = -7*v + z*v - 19496. Is v a prime number?
+True
+Let k(a) = -a**3 - a**2 + 22*a + 11. Suppose i = -s + 2 - 18, -5*i - 32 = 2*s. Let j be k(s). Let z = j - 2022. Is z a prime number?
+False

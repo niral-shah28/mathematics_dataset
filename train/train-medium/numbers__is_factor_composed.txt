@@ -1,0 +1,6 @@
+Let d(b) = 50*b - 46. Is d(3) a multiple of 13?
+True
+Suppose 0*b + b = 5. Suppose -b*v - 2*v = -224. Is 25 a factor of v?
+False
+Let w = 3794 - 2615. Does 5 divide w?
+False

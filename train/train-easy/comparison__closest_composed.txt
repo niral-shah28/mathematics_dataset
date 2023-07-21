@@ -1,0 +1,6 @@
+Let s = 24 + -71/3. What is the closest to 0 in s, -2/5, -2?
+s
+Let i = 16 + -23. Let g = 0.02 - -7.98. Let v = i + g. What is the nearest to 1/2 in v, 3, -0.1?
+v
+Let s = 2 - 1.7. Suppose -5*f - 3 = -4*f. Which is the closest to s?  (a) -4  (b) f  (c) -0.4
+c

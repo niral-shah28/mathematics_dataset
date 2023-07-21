@@ -1,0 +1,6 @@
+What is 1294800 rounded to the nearest 10000?
+1290000
+Round 425810000 to the nearest 1000000.
+426000000
+What is -15094600 rounded to the nearest 1000000?
+-15000000

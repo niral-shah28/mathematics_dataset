@@ -1,0 +1,6 @@
+Let k = 27 + -25.9. Let o = k + -3.6. Round o to the nearest integer.
+-3
+Let p = -1.1 + 4. Let m = 11872365 - 11872362.09999912. Let l = m - p. Round l to seven dps.
+0.0000009
+Let r = -6.4 - -4.5. Let h = -16953.9018 + 16952. Let d = r - h. Round d to 3 decimal places.
+0.002

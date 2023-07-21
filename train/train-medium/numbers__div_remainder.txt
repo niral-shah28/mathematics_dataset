@@ -1,0 +1,6 @@
+What is the remainder when 142336 is divided by 13?
+12
+Calculate the remainder when 1599737 is divided by 929.
+928
+Calculate the remainder when 29933 is divided by 46.
+33

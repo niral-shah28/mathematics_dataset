@@ -1,0 +1,20 @@
+Let h(t) = 24*t**2 - 18*t - 108. What is the units digit of h(-6)?
+4
+Let s be -12*152/3 - 0/1. Let f = -408 - s. What is the hundreds digit of f?
+2
+Suppose 0 = q + 2, 3*q + 3*q + 45312 = 5*w. What is the hundreds digit of w?
+0
+What is the units digit of (5/(-15))/((-1)/6 - (-2985)/17916)?
+2
+Suppose -13*o + 1558 = -4227. Suppose -1795 = -4*h - 5*t + 6*t, -4*t - o = -h. What is the hundreds digit of h?
+4
+Let x = 12 + -7. Suppose 0 = -x*w + 5*w + 2*w. Suppose -11*g + 8*g + 234 = w. What is the tens digit of g?
+7
+Suppose 0 = 17*w - 13*w + 460. Let i be (198/4)/(w/30 - -4). Suppose -5*y + 14*y = i. What is the units digit of y?
+3
+Let x(b) = 13*b + 9. Let p be x(7). Let d(f) = -14*f**2 + f - 8. Let k be d(-2). Let h = k + p. What is the tens digit of h?
+3
+What is the tens digit of (-3 - -1) + 9 + 5828?
+3
+Let l be -1*(3 + -1 - 2). Let u be 0/(5 + -3 + l). What is the tens digit of (-29)/(-1) + u/7?
+2

@@ -1,0 +1,6 @@
+Collect the terms in 2344056020*l**2 - 2344056020*l**2 - 11*l**3.
+-11*l**3
+Collect the terms in 32*f**2 + f + 28*f**2 - 1121*f**3 - 95*f**2 + 33*f**2 + f.
+-1121*f**3 - 2*f**2 + 2*f
+Collect the terms in 6273 - 6273 + 12587*d.
+12587*d

@@ -1,0 +1,6 @@
+Solve -g + 88 = 3*d + 90, 0 = 5*d + 6*g + 64 for d.
+4
+Solve 80 - 83 = -l + 4*b, l = -b + 3 for l.
+3
+Solve 2*n - 5 = -3*b + 4, 5*b - 4*n = -7 for b.
+1

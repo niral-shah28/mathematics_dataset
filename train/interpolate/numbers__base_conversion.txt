@@ -1,0 +1,20 @@
+Convert 4a361 (base 13) to base 6.
+2533200
+Convert -54208 (base 11) to base 6.
+-1404415
+Convert 107a2 (base 15) to base 4.
+30302000
+What is 86678 (base 11) in base 13?
+45417
+Convert 167421 (base 8) to base 2.
+1110111100010001
+10110010111001011 (base 2) to base 16
+165cb
+What is -42acc (base 14) in base 3?
+-22012020210
+Convert -536232 (base 7) to base 6.
+-2000253
+-10110001110011010 (base 2) to base 10
+-91034
+What is 1b7b3 (base 13) in base 14?
+159b3

@@ -1,0 +1,6 @@
+Let u(j) = 8*j**2 + 12*j + 12. Let l(r) = r + 1. Calculate -12*l(d) + u(d).
+8*d**2
+Let g(j) = -33*j**2 + 5*j. Let q(h) = 8*h**2 - h. What is -2*g(y) - 9*q(y)?
+-6*y**2 - y
+Let k = 18 - 25. Let x(z) = -z + 0 + 3*z**2 - 5 - 2. Let u(y) be the first derivative of 4*y**3/3 - y**2/2 - 10*y + 9. Give k*x(q) + 5*u(q).
+-q**2 + 2*q - 1

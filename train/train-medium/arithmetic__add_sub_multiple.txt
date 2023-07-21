@@ -1,0 +1,6 @@
+What is the value of -25 - (10 + -23) - -22?
+10
+Calculate -4819 + 4815 - (-1 - -1 - 2).
+-2
+What is the value of -4 + -2 - -15 - (10 - 17)?
+16

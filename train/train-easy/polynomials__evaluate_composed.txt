@@ -1,0 +1,6 @@
+Let u be (-5 - 1)/(5/5). Let d = u + 16. Suppose -4*k - 16 = l, 35 = -k + 5*l + d. Let n(z) = z**3 + 4*z**2 - 7*z - 6. Give n(k).
+4
+Let f(k) = 104*k - 51*k - 52*k + 13. Give f(-15).
+-2
+Let w be (-2)/5 - (-162)/30. Let f(m) = 2*m + 7. Let d(c) = -3*c - 7. Suppose 13 = -4*g + 1. Let z(p) = g*d(p) - 4*f(p). Determine z(w).
+-2

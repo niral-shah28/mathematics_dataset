@@ -1,0 +1,6 @@
+Let m(r) = 9 - 115*r. What is the remainder when m(-2) is divided by 60?
+59
+Suppose 2*d - 16 = -10. Let g = d + 18. Calculate the remainder when 125 is divided by g.
+20
+Let r(g) = -6*g**2 - 243*g - 4. What is the remainder when 351 is divided by r(-40)?
+3

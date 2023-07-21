@@ -1,0 +1,6 @@
+Let i(k) = 65 - k. Suppose 0 = -5*r - b + 98, -2*r = 3*r + 2*b - 96. Let d be i(r). Calculate the highest common factor of 30 and d.
+15
+Suppose 10*k - 132 = 8*k. Let r(t) = t + 2. Let z be (-6)/((-2)/4*3). Let w be r(z). Calculate the highest common factor of w and k.
+6
+Let w be (20/((-800)/72))/(1/(-70)). What is the greatest common factor of 63 and w?
+63

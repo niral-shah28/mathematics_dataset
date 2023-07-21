@@ -1,0 +1,6 @@
+What is the fifth smallest value in 0, -30, -0.2, -2, 15?
+15
+What is the fourth smallest value in 1, 4, 2, -100?
+4
+Which is the fifth smallest value?  (a) -0.2  (b) -4  (c) -35.2  (d) -1/2  (e) 5/83
+e

@@ -1,0 +1,6 @@
+What is 111110 (base 2) in base 9?
+68
+61 (base 11) to base 8
+103
+Convert 1a (base 13) to base 7.
+32

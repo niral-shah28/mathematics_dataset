@@ -1,0 +1,6 @@
+Is 200699 a prime number?
+True
+Is 1099 a prime number?
+False
+Is 1821 prime?
+False

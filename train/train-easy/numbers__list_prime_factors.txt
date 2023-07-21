@@ -1,0 +1,6 @@
+List the prime factors of 18023.
+67, 269
+List the prime factors of 6367.
+6367
+List the prime factors of 10685.
+5, 2137

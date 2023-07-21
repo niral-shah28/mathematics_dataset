@@ -1,0 +1,6 @@
+Does 218 divide 425180?
+False
+Is 685022 a multiple of 14?
+False
+Is 468 a factor of 73425?
+False

@@ -1,0 +1,6 @@
+What is the third derivative of -1275105*s**3*t**3 + s**2*t**3 - 22*s**2*t - s**2 - 4*s*t**3 + 2110*s*t wrt s?
+-7650630*t**3
+What is the first derivative of 145014*n**4 - 9*n**2 - 1678973?
+580056*n**3 - 18*n
+Find the second derivative of 77920*i**2 - i - 3429.
+155840

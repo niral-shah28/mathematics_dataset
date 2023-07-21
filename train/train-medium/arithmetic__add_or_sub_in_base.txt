@@ -1,0 +1,6 @@
+In base 10, what is 5 - 36333?
+-36328
+In base 16, what is -e1331 + 3?
+-e132e
+In base 8, what is 3 - 12733?
+-12730

@@ -1,0 +1,6 @@
+Let s(p) = -p**2 - 4*p + 5. Let j be s(-5). Let b = 0 - j. Solve u + 0*u + 5 = b for u.
+-5
+Let y(h) = -h**3 + 2*h - 9. Let r be y(0). Let f be 3*(-2)/r*3. Let c be ((-2)/3)/(2/(-36)). Solve 0 = x + f*x - c for x.
+4
+Suppose -o + 11 = 3. Let l(s) = -s**3 + 8*s**2 + s - 7. Let k be l(o). Suppose -w = k - 5. Solve -2*x = 2*x - w for x.
+1

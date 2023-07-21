@@ -1,0 +1,6 @@
+Suppose -5*g - 3 = -4*o + 2*o, 0 = 4*o + 4*g - 20. Suppose -232 = o*u - 1268. Is u prime?
+False
+Suppose -t + 2003 = 6*p - p, 2*t = 6. Suppose -2*j + j = 5*n - 98, -5*n - p = -5*j. Is j a composite number?
+False
+Let h be ((-2)/5 + 0)*-10. Let i(f) = 7*f**3 + 2*f**2 + 6*f - 1. Let c(t) = -7*t**3 - 2*t**2 - 5*t + 1. Let k(o) = h*c(o) + 3*i(o). Is k(-2) a composite number?
+False

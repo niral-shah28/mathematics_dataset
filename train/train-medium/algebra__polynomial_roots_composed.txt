@@ -1,0 +1,6 @@
+Let k(r) be the first derivative of -r**5/20 + r**4/6 - r**3/6 + 20*r + 10. Let x(c) be the first derivative of k(c). Solve x(a) = 0 for a.
+0, 1
+Let j(x) be the first derivative of 17/5*x**3 - 24/5*x**2 - 3/5*x**4 - 28 + 9/5*x. Find s such that j(s) = 0.
+1/4, 1, 3
+Let n(p) be the third derivative of -p**5/100 - p**4/8 + 3*p**3/5 - 348*p**2. Factor n(y).
+-3*(y - 1)*(y + 6)/5

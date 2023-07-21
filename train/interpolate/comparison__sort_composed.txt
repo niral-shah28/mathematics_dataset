@@ -1,0 +1,20 @@
+Suppose 10*o = 4*o - 36. Let u(a) = -a**3 + 2*a**2 - 3*a + 2. Let q be u(1). Suppose 2*l = y - 10, -25 = -q*y + 4*y + 5*l. Sort 3, o, 1, y in decreasing order.
+3, 1, y, o
+Let y(g) = g**2 + 2*g + 2. Let o be y(0). Suppose 0 = 5*r + 2*l - 35, -4 = -o*r - l + 11. Put r, 0.1, -6 in descending order.
+r, 0.1, -6
+Let k = -5 - -5. Let i(s) = s - 4. Let m be i(7). Suppose 0*a + m*a + 3 = 0. Sort 2, k, a in descending order.
+2, k, a
+Let z = -2184 + 2177. Sort -5, z, 5 in decreasing order.
+5, -5, z
+Let v = 336.99 + -7.99. Let i = -330 + v. Suppose 5*f + 1 = -4*o - 3, 2*f + 8 = 0. Put i, o, 2/7, -0.05 in ascending order.
+i, -0.05, 2/7, o
+Let d(f) = -45*f**2 - 224*f + 3. Let i be d(-5). Sort i, 3, -3, 127 in ascending order.
+-3, i, 3, 127
+Let q be (11 - -1)*(-2)/(-6). Let c be (1/1)/(12/(-24)). Sort 30, c, q in ascending order.
+c, q, 30
+Let x = -205 - -133. Let d = -71.6 - x. Sort -49, 4, d.
+-49, d, 4
+Let a = 44.18 - 44.38. Put -0.16, a, 1 in decreasing order.
+1, -0.16, a
+Let q = 6.3 + -5.8. Let w = 0.47 + -2.47. Sort w, -4, 3, q in decreasing order.
+3, q, w, -4

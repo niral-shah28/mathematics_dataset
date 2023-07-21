@@ -1,0 +1,6 @@
+What is prob of picking 2 l and 1 t when three letters picked without replacement from {l: 16, t: 2}?
+5/17
+What is prob of picking 3 n when three letters picked without replacement from {n: 16, b: 2}?
+35/51
+Calculate prob of picking 2 l and 1 r when three letters picked without replacement from {r: 2, l: 2, q: 8}.
+1/110

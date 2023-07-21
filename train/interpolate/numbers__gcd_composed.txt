@@ -1,0 +1,20 @@
+Let o(t) = -2*t**3 - 11*t**2 - 27*t - 26. Let g be o(-10). What is the highest common factor of g and 16?
+8
+Let v = -31 - -82. Let j(a) = 7*a**3 + 3*a**2 + a. Let y be j(-1). Let f be 4 + 5 + y + 1 + 12. What is the highest common divisor of v and f?
+17
+Let v be 1 - (7 + -3)/4. Let m be (6/(-8))/((-6)/16) - v. Suppose -y - 3 = m*h, 4*h + 6 = 2*y - 4. Calculate the greatest common divisor of 2 and y.
+1
+Suppose s - 96 = -3*s. Let d(n) = n**3 - n**2 + 4*n + 187. Let h be d(0). Let i be 12/(-30) - (1 + h/(-5)). What is the highest common factor of s and i?
+12
+Let p(o) = 3*o**3 - o**2. Let x be p(2). Let a = -185 + 296. Suppose -159 = -9*h + a. Calculate the highest common factor of x and h.
+10
+Let w(y) = 17 - 2*y. Let p(z) = z - 1. Let r(n) = 3*p(n) + w(n). Let a be r(10). Let x be -2 - -243 - 3/3. What is the highest common divisor of a and x?
+24
+Let k = -3189 + 3225. Calculate the greatest common divisor of 36 and k.
+36
+Let n(h) be the first derivative of h**3/3 - 5*h + 37. Let y be n(-3). What is the greatest common divisor of 26 and y?
+2
+Let w(h) = -2*h**3 - 16*h**2 - 47*h - 17. Let k be w(-5). Calculate the highest common divisor of k and 16.
+4
+Let w(j) = j**3 - 4*j**2 + 5*j - 2. Let m be w(5). What is the highest common factor of m and 2000?
+16

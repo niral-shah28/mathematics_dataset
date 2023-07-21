@@ -1,0 +1,6 @@
+Let v(k) = 3*k**2 - 4*k**2 - k**2. Let j(p) be the third derivative of p**5/30 + 9*p**2. What is v(j(s))?
+-8*s**4
+Let k(j) = j**2 + 2. Let y(n) = -13*n. What is y(k(u))?
+-13*u**2 - 26
+Suppose 1 = 4*i - 7. Let k(q) = i*q + 0*q**2 - 2*q**2 - 2*q. Let l(a) = -2*a. Give l(k(c)).
+4*c**2

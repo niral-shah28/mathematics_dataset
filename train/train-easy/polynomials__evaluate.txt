@@ -1,0 +1,6 @@
+Let s(a) = a**3 + 4*a**2 - 2*a - 10. Determine s(-3).
+5
+Let v(q) = -q**2 - 6*q - 4. Determine v(-8).
+-20
+Let o(f) = 56 - 4*f. Determine o(14).
+0

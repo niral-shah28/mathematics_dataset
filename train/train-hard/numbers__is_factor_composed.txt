@@ -1,0 +1,6 @@
+Let q(n) = -91*n**3 - 16*n**2 - 66*n - 6. Does 29 divide q(-4)?
+False
+Is 152 a factor of 5/6 - 1736168/(-336)?
+True
+Let n(m) be the third derivative of 1/20*m**5 - 3/2*m**3 + 0*m + 0 + 11*m**2 + 5/12*m**4. Is 29 a factor of n(5)?
+True

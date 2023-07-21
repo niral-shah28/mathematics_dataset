@@ -1,0 +1,6 @@
+Put 9.3, -46.04, -18, 4, -2/9 in increasing order.
+-46.04, -18, -2/9, 4, 9.3
+Put 0.5, -1/16, 138, -0.047, 3 in descending order.
+138, 3, 0.5, -0.047, -1/16
+Sort 0, 55027, 1, -4 in decreasing order.
+55027, 1, 0, -4

@@ -1,0 +1,6 @@
+What is the tens digit of 1222845?
+4
+What is the units digit of 6503001?
+1
+What is the units digit of 75294?
+4

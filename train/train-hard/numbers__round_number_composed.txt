@@ -1,0 +1,6 @@
+Let b be (-54)/162 + 1684916/6. Suppose 5*d = 4*z + 56819 - b, 5*d - z = -224000. Round d to the nearest 10000.
+-40000
+Let z = -47097 + 45617.745. Let i = 1472 + z. Round i to the nearest integer.
+-7
+Let s = 9.694 - -0.106. Let z = -9.82 + s. Let f = z + 0.0199957. Round f to seven dps.
+-0.0000043

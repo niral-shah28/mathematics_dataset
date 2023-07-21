@@ -1,0 +1,20 @@
+Suppose 0 = 34*a + 3*a + 19*a + 34*a. Solve 404*j - 398*j = a for j.
+0
+Suppose 3*l + 439 = -5*p, p - 580 = 4*l + 5*p. Let f = 155 + l. Solve 0 = -4*r + f for r.
+3
+Suppose 8*a + 930 = 13*a. Let q = -168 + a. Solve q + 7 = -5*l for l.
+-5
+Let m = -1184 + 1184. Solve m = 27*r - 20*r + 35 for r.
+-5
+Let w be (-2 - -13 - 1) + -2. Suppose 4*v - 5*v = -3*j + 1, 0 = -v + 2*j. Suppose -5*l + 8 = 15*p - 17*p, -2*l - 4*p + 32 = 0. Solve v*i - l*i = w for i.
+-4
+Suppose -5*u - 5*w = -145, 7*w + 138 = 5*u + 5*w. Let y = 21 + 9. Let i = y - u. Solve -i + 0 = -c for c.
+2
+Let u(k) = -2*k**3 + 2*k**2 - k + 7. Let o be u(3). Let a = o + 36. Let z(c) = c**2 + 3*c - 18. Let y be z(-6). Solve y*g = -2*g - a for g.
+-2
+Let i = -2902 + 2952. Solve i = 95*m - 105*m for m.
+-5
+Let a(r) = -r**2 - 147*r + 24. Let u be a(0). Solve 18*l - 24*l - u = 0 for l.
+-4
+Let n = 43 + -101. Let h be (-3)/2 + (n/(-4) - 3). Solve -5*l - 10 = h for l.
+-4

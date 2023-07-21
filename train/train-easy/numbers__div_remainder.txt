@@ -1,0 +1,6 @@
+Calculate the remainder when 127 is divided by 122.
+5
+What is the remainder when 4277 is divided by 54?
+11
+What is the remainder when 831 is divided by 85?
+66

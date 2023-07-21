@@ -1,0 +1,6 @@
+Does 4 divide 1315?
+False
+Does 9 divide 13842?
+True
+Is 53308 a multiple of 16?
+False

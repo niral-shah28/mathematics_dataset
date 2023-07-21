@@ -1,0 +1,20 @@
+Suppose 10*c - 7*c = 3*b + 416280, 4*c - 555043 = 3*b. Is c a prime number?
+True
+Let m(x) = -3*x**3 + 10*x**2 - 34*x - 568. Is m(-31) prime?
+True
+Suppose y + 4*y - 20 = 0. Suppose y*b = -b + 48035. Is b prime?
+False
+Let p = -209 - -207. Is 3 - -1 - ((-4)/p + -627) a composite number?
+True
+Suppose -101 = -4*b - 113. Let g(c) = 686*c**2 + 5*c - 4. Is g(b) a composite number?
+True
+Suppose 5*n - 487625 = 5*g, 5*n + g = -g + 487611. Is n a prime number?
+True
+Is -3 - (6*1 + (-264056)/(24/12)) prime?
+True
+Let z = 145229 - 44992. Is z composite?
+False
+Let n = -176 - 301. Let x = -275 - n. Is x a composite number?
+True
+Let t(b) be the second derivative of b**4/12 - b**3/6 + 67*b**2/2 - 16*b + 2. Is t(25) a prime number?
+False

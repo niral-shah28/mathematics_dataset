@@ -1,0 +1,6 @@
+Let s(g) = 9220 - 369*g. Determine s(25).
+-5
+Let y(l) = -2*l**3 + 171*l**2 - 1175*l + 263. What is y(78)?
+-127
+Let b(i) = -i**2 + 315*i - 3908. Calculate b(13).
+18

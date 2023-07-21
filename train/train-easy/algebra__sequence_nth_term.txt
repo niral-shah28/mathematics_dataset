@@ -1,0 +1,6 @@
+What is the t'th term of 204, 431, 658?
+227*t - 23
+What is the h'th term of 44, 293, 964, 2267, 4412, 7609?
+35*h**3 + h**2 + h + 7
+What is the q'th term of 551, 1101, 1649, 2195?
+-q**2 + 553*q - 1

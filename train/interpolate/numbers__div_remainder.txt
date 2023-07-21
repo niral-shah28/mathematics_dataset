@@ -1,0 +1,20 @@
+Calculate the remainder when 53213 is divided by 4418.
+197
+Calculate the remainder when 133074 is divided by 253.
+249
+Calculate the remainder when 4074363 is divided by 1787.
+3
+Calculate the remainder when 1072039 is divided by 2351.
+2334
+What is the remainder when 469028 is divided by 667?
+127
+Calculate the remainder when 5838972 is divided by 530815.
+7
+What is the remainder when 28078 is divided by 8988?
+1114
+What is the remainder when 900460 is divided by 253?
+33
+Calculate the remainder when 602044 is divided by 1524.
+64
+What is the remainder when 47410 is divided by 1973?
+58

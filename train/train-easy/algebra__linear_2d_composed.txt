@@ -1,0 +1,6 @@
+Let u = -20 - -29. Let i = -4 + u. Suppose 3*j + 3*m = 2*m + 44, i*m = -20. Solve -4*z = -5*t - j, -2*z + 6 - 28 = 5*t for z.
+-1
+Suppose -5*x + 10 = -0*x. Let s be 3/(-3)*x*1. Let u be (8/(-14))/(s/7). Solve 4*a + u = c + a, c + 4*a + 5 = 0 for c.
+-1
+Suppose -3*c - 16 = -1, -5*k + 55 = -4*c. Let o = k - 3. Let r(z) = z**2 + 8*z + 9. Let x be r(-7). Solve -4*d - 18 = x*a, o*d + 27 - 10 = -3*a for d.
+-5

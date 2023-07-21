@@ -1,0 +1,6 @@
+What is the greatest common factor of 36 and 288?
+36
+What is the highest common factor of 5 and 115?
+5
+What is the greatest common factor of 184 and 3013?
+23

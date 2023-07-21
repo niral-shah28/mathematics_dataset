@@ -1,0 +1,6 @@
+Simplify ((x**(2/11)*x)**(4/5))**(-18)*(x**(2/5))**8*(x**(-3)/x)/(x/(x*x**(-6))) assuming x is positive.
+x**(-262/11)
+Simplify ((n**(-7)*n/n**(-6)*n)/((n**(2/13)*n)/n**(-2/7)))/((n/n**(-3/7))**(-1/6))**(-23) assuming n is positive.
+n**(-1615/273)
+Simplify (x**26*x**(1/5)*(x/((x**(-4)*x)/x)*x*x*x)/(x/(x*x**(-5/2))))**(-22) assuming x is positive.
+x**(-3487/5)

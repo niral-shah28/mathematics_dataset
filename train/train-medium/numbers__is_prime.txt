@@ -1,0 +1,6 @@
+Is 5937179 a composite number?
+False
+Is 88411 composite?
+False
+Is 69944253 a composite number?
+True

@@ -1,0 +1,6 @@
+What are the prime factors of 0 + (12 - (-7327 - 5))?
+2, 3, 17
+What are the prime factors of -6 + 23/(391/82348)?
+2, 41, 59
+Suppose -5*b = b - 24. Let k(m) = 2*m**3 + 2*m**2 - 4*m + 3. Let d be k(1). Suppose d = w - b*w, -89 = -s - 5*w. What are the prime factors of s?
+2, 47

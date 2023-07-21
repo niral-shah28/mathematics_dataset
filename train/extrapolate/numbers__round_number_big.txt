@@ -1,0 +1,20 @@
+What is -0.001563454933352 rounded to seven decimal places?
+-0.0015635
+Round 0.0053479858398 to 3 dps.
+0.005
+Round 249551689.7946 to the nearest one thousand.
+249552000
+What is 2029813.582897 rounded to the nearest 1000?
+2030000
+What is 89308325956.1 rounded to the nearest one hundred thousand?
+89308300000
+What is -4653715.48301 rounded to the nearest 1000000?
+-5000000
+Round -0.0000509508918017 to six dps.
+-0.000051
+Round 40761207.5628 to the nearest 1000.
+40761000
+Round -1.6485395162 to the nearest integer.
+-2
+Round 3987703.83973 to the nearest one hundred thousand.
+4000000

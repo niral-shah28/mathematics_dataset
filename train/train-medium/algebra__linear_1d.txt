@@ -1,0 +1,6 @@
+Solve -28*i - 420 = -0*i for i.
+-15
+Solve 33*s - 197 = -30*s - 8 for s.
+3
+Solve -225 = -4310*q + 4325*q for q.
+-15

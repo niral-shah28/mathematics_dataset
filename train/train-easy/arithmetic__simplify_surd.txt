@@ -1,0 +1,6 @@
+Simplify -5 + 4 + -2 + sqrt(7).
+-3 + sqrt(7)
+Simplify 0 + (0 + sqrt(208))*1.
+4*sqrt(13)
+Simplify -4*(sqrt(135)/sqrt(3))**2.
+-180

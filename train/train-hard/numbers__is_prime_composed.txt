@@ -1,0 +1,6 @@
+Is (-2 - (-18557 + 2)) + 10 + -4 a prime number?
+False
+Let c(n) = 2*n**3 - 120*n**2 + 169*n - 662. Is c(105) composite?
+True
+Let p(b) = -2 + 318*b**2 + 2 + b. Let j(o) = -3*o**2 + 13*o - 13. Let z be j(2). Is p(z) prime?
+False

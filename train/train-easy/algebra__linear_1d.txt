@@ -1,0 +1,6 @@
+Solve -26*l - 11 - 171 = 0 for l.
+-7
+Solve 4*i + 1 + 15 = 0 for i.
+-4
+Solve 94*o = 47*o + 188 for o.
+4

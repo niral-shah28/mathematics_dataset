@@ -1,0 +1,6 @@
+Let o = -20/59 + 2459/7080. Let m(g) be the third derivative of g**2 + 0*g**3 - 3/8*g**4 - o*g**6 + 0*g + 0*g**5 + 0. Find the second derivative of m(d) wrt d.
+-6*d
+What is the second derivative of -4730 + 4740 - s - 32*s**4 - 126*s**4 wrt s?
+-1896*s**2
+Let h(r) = r**2 + r + 1. Let s(k) = 4*k - 1 + 5*k**2 + 3*k + 7. Let g = 27 + -26. Let n(j) = g*s(j) - 6*h(j). What is the second derivative of n(u) wrt u?
+-2

@@ -1,0 +1,20 @@
+Suppose 0*u + 8 = 4*u. Suppose -u*s - 2*z - 6 = 0, -2*s + z - 4 + 13 = 0. Let h(o) = 7*o - 4. Calculate the remainder when 49 is divided by h(s).
+9
+Let n be (2/3)/(4/84). Let s be (-2)/(-7) - 130/n. Calculate the remainder when (-407)/s + 30/(-135) is divided by 24.
+21
+Let h = 3651 + -3627. What is the remainder when 877 is divided by h?
+13
+What is the remainder when 6/(-93) - 919735/(-899) is divided by 340?
+3
+Suppose 5*z - 46 = 17*y - 21*y, 2*z - 15 = -5*y. What is the remainder when 29 is divided by ((-12)/5)/(67/z + -7)?
+5
+Suppose 21*u + 216 = 30*u. Calculate the remainder when 167 is divided by u.
+23
+Suppose -8*a - 447 = -32*a + 2073. What is the remainder when a is divided by 10?
+5
+Suppose 0*g + 13 = g - j, -5*g + 64 = -4*j. Suppose -g*a + 330 = -a. Let b = -25 + a. Calculate the remainder when 18 is divided by b.
+3
+Let i = -81 - -107. Let h = -105 - -199. Calculate the remainder when h is divided by i.
+16
+Suppose 6*t - t = -5*p + 20, t = -3*p + 12. Suppose -5*i + p*i + 5*f = -37, 0 = 2*i + 4*f - 4. Calculate the remainder when 33 is divided by i.
+9

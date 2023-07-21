@@ -1,0 +1,6 @@
+Suppose 12*i + 45 = 7*i + 4*o, -2*o = -10. Let v(j) = -6*j**3 + 5*j**2 + 5*j. Let s(c) = 7*c**3 - 4*c**2 - 4*c. What is i*s(p) - 4*v(p)?
+-11*p**3
+Let x be 18/4 - (-1)/(-2). Suppose 0 = n - 4, -x*r - 3*n = -2*n. Let t(v) be the first derivative of 11416 - v. Let z(w) = 5 - w**2. What is r*z(o) - 4*t(o)?
+o**2 - 1
+Let g(w) = -9*w - 5. Let a(h) be the third derivative of h**4/3 + 2*h**3/3 + 17*h**2. Suppose 3*i = 3*v + 27, -v - 72*i + 77*i = 29. Determine v*g(o) - 5*a(o).
+-4*o

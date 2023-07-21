@@ -1,0 +1,20 @@
+Let z = -425.09998603 - -425.1. What is z rounded to seven decimal places?
+0.000014
+Let o = -6.22 + 6.8. Let p = -0.57999946 + o. Let b = p + 0. Round b to 7 dps.
+0.0000005
+Suppose 0 = -2*a + 5582732 + 797268. Suppose 21*p = 22*p - a. Round p to the nearest one hundred thousand.
+3200000
+Let y(z) = z**3 - 2*z**2 - 9*z + 21. Let c be y(3). Let m be (-110699850)/54 + 4/18 - c. Round m to the nearest 100000.
+-2100000
+Let a = 2781463075 - 2781463053.900000355. Let y = a + -21.1. What is y rounded to seven dps?
+-0.0000004
+Suppose 3*t + 154928 - 3115850 = 0. Suppose -1728636 - t = a. Let g = 1895610 + a. Round g to the nearest one hundred thousand.
+-800000
+Let p = 18.1 - 3.7. Let v = p - 14.6. What is v rounded to one decimal place?
+-0.2
+Let d = -2117.999993432 - -2118. What is d rounded to 7 decimal places?
+0.0000066
+Let l(f) = -8*f**3 - 3*f**2 + 3*f + 1. Let i be l(-2). Let r be (0 - 83750)*(i - 15). Round r to the nearest one million.
+-3000000
+Suppose -4*o + 3*h - 258414 = 0, 323004 = -5*o - 3*h - 0*h. Let u = o + 96402. Round u to the nearest 1000.
+32000

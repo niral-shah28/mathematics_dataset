@@ -1,0 +1,6 @@
+Sort 0.11, 1/3, -7.814, 3, -3 in decreasing order.
+3, 1/3, 0.11, -3, -7.814
+Put -19, 2, 13, -3, -4 in decreasing order.
+13, 2, -3, -4, -19
+Put -19, 14, -51 in decreasing order.
+14, -19, -51

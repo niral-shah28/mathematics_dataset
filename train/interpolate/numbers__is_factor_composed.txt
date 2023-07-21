@@ -1,0 +1,20 @@
+Let t(h) = 44 - 88*h. Does 2 divide t(-4)?
+True
+Suppose -15029 + 360 = -4*n - 1429. Does 48 divide n?
+False
+Let c(p) = -p - 1. Let m(d) = 8*d + 12. Suppose 8 = 3*x + 26. Let n(b) = x*c(b) - m(b). Is n(-5) even?
+True
+Let o(f) = 7*f - 113. Let s be o(15). Is (-48)/64 + (-3502)/s a multiple of 32?
+False
+Let g = -22 + 40. Suppose 3*q + 0*z = 2*z + g, -q + 3*z + 6 = 0. Suppose 0 = 4*y, w - q*w = 5*y - 185. Is w a multiple of 27?
+False
+Suppose 2*w + 3*i + i = 114, -5*i = -3*w + 160. Suppose -259 + w = 6*g. Is -2*g/12*3 a multiple of 4?
+False
+Suppose 3*h - 3 = -3*i, 0 = -2*h - 6 - 2. Suppose 3 - 2 = a + n, -3*a - 1 = i*n. Suppose 2*p + 5*l - 140 = -2*p, 3*p + a*l = 102. Is p a multiple of 6?
+True
+Let r be (-4 + 5192/(-4))*-1. Is 16 a factor of ((-4)/(3 + 1))/((-6)/r)?
+False
+Suppose -26*u + 255 = -11*u. Suppose -2*m + 321 = u. Is 27 a factor of m?
+False
+Suppose 79 + 35 = 3*o. Suppose m + 17 = o. Suppose -k = -m - 49. Is 17 a factor of k?
+False

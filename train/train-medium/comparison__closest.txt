@@ -1,0 +1,6 @@
+Which is the closest to 1/5?  (a) -0.3  (b) 5/46  (c) -0.34  (d) 4
+b
+What is the nearest to 0.1 in 64, 21, -0.4, 9, 2?
+-0.4
+What is the closest to 35 in -0.3, -0.051, 2?
+2

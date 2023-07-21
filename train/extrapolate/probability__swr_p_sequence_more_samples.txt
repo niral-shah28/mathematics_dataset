@@ -1,0 +1,20 @@
+Calculate prob of sequence iurfi when five letters picked without replacement from {r: 2, f: 2, u: 2, i: 9, a: 4}.
+2/4845
+Five letters picked without replacement from raaaakaaaaaaaraakaaa. What is prob of sequence karaa?
+7/969
+Five letters picked without replacement from {j: 3, q: 3, h: 2, e: 5, g: 2, z: 4}. Give prob of sequence qqzje.
+1/3876
+Five letters picked without replacement from {i: 4, m: 8}. Give prob of sequence immmi.
+7/165
+Five letters picked without replacement from iwkzatwawwiia. What is prob of sequence izwti?
+1/6435
+Calculate prob of sequence ovkwv when five letters picked without replacement from fflwfvfovflkl.
+1/77220
+Five letters picked without replacement from ywyywywywwwyy. What is prob of sequence wywyy?
+35/858
+Five letters picked without replacement from xffxxfff. What is prob of sequence xffff?
+3/56
+Calculate prob of sequence skrst when five letters picked without replacement from {n: 3, a: 3, s: 2, t: 3, k: 3, r: 2}.
+1/14560
+Five letters picked without replacement from bbbbbcccccbcb. What is prob of sequence ccbbb?
+35/858

@@ -1,0 +1,6 @@
+Calculate the greatest common divisor of 13590 and 4790.
+10
+What is the highest common divisor of 3 and 13330467?
+3
+What is the highest common divisor of 2816460 and 285?
+15

@@ -1,0 +1,6 @@
+Let x be 14/126*(5 - 2). Is x bigger than 8?
+False
+Let k = 1 + 0. Suppose 7*v = 4*v - 513. Let w be 1/((4/6)/((-12)/v)). Are k and w equal?
+False
+Let q be (-4 - (-3 + -2))/(64/(-10)). Is q less than -1?
+False

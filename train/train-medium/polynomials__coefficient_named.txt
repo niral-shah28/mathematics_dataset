@@ -1,0 +1,6 @@
+Rearrange -347*w**3 + 26*w**4 - 10*w**4 + 349*w**3 + (3 - 3 - 2*w)*(2*w**3 + w**3 - w**3) to o*w**3 + q + u*w + m*w**2 + f*w**4 and give u.
+0
+Rearrange (21*p - 4*p + 11*p)*(-6*p + 5*p + 2*p) + (-2*p**2 - 4*p**2 + 5*p**2)*(-2 - 5 + 9) to f*p + u*p**2 + x and give f.
+0
+Rearrange -4 + 2*g + 4 - 2*g - g + g + (0 - 4 + 3)*(g + 2 - 2) + 2 - 3 + 114053*g - 113004*g to the form y + u*g and give y.
+-1

@@ -1,0 +1,6 @@
+Let v(l) = l**2. Let m be v(-2). Suppose 4*s - 5*b = -19 + 4, 3*b - 17 = m*s. Let z(o) = 2*o**2 + 6*o - 6. Is 14 a factor of z(s)?
+True
+Suppose -10 = 2*k + 14. Let r be (3/(-2))/(k/128). Suppose 2*w + 0 = r. Is w a multiple of 8?
+True
+Let i(v) = v**2 - 2*v + 4. Is 14 a factor of i(10)?
+True

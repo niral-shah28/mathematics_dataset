@@ -1,0 +1,6 @@
+Sort 3, 0, -27, -18, -2 in decreasing order.
+3, 0, -2, -18, -27
+Sort -0.008, 1, 15, 4 in increasing order.
+-0.008, 1, 4, 15
+Put 16, -7, 2 in decreasing order.
+16, 2, -7

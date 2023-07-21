@@ -1,0 +1,6 @@
+Suppose 0 = -s - 3*z - 6, 4*s = 5*s + 4*z + 8. Suppose -4*d + 76 - 8 = s. Let w = d + -3. What is the greatest common factor of 70 and w?
+14
+Let p(b) = b**3 + 9*b**2 - 20*b + 1. Let f be p(-12). Let q = f + 222. What is the highest common factor of 341 and q?
+31
+Let c = -6605 - -6788. Calculate the highest common divisor of 61 and c.
+61

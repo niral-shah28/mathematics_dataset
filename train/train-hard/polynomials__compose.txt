@@ -1,0 +1,6 @@
+Let w be 35*1 + (-4 + 4 - -3). Suppose -w*p = -42*p + 1020. Let h(b) = -p + 255 - 2*b. Let v(i) = -7*i**2. Calculate h(v(z)).
+14*z**2
+Let n(k) = 721*k. Let y(h) = 32 - 12*h**2. Let s(q) = 28 - 10*q**2. Let u(x) = 8*s(x) - 7*y(x). Calculate u(n(l)).
+2079364*l**2
+Let a(n) = -4*n**2. Let y(f) be the third derivative of -f**4/12 - 67*f**3/6 + 199*f**2 - 2*f. Give a(y(z)).
+-16*z**2 - 1072*z - 17956

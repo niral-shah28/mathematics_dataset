@@ -1,0 +1,20 @@
+Two letters picked without replacement from {y: 4, f: 10, l: 3}. Give prob of sequence fl.
+15/136
+Four letters picked without replacement from xxqxxxxxxqdxx. What is prob of sequence xxqd?
+3/286
+What is prob of sequence hyq when three letters picked without replacement from yhhhqqmq?
+3/112
+Four letters picked without replacement from pmpclhphbh. What is prob of sequence bmlh?
+1/1680
+Three letters picked without replacement from oaooo. What is prob of sequence ooo?
+2/5
+Calculate prob of sequence ee when two letters picked without replacement from ehreke.
+1/5
+What is prob of sequence ff when two letters picked without replacement from djjjfdf?
+1/21
+Four letters picked without replacement from {b: 1, s: 5}. Give prob of sequence sssb.
+1/6
+Four letters picked without replacement from uduhuue. What is prob of sequence dhue?
+1/210
+Three letters picked without replacement from {x: 2, a: 7, n: 2, e: 9}. Give prob of sequence exe.
+2/95

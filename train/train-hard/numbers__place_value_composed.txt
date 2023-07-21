@@ -1,0 +1,6 @@
+Let m = -211 - -649. Suppose -3*n = -5*n + m. What is the units digit of n?
+9
+Let v(s) = 9*s**2 - 51*s - 45. What is the units digit of v(-18)?
+9
+Let t be 158525/50 + 0 + 2/(-4). Let n = t + -1834. What is the units digit of n?
+6

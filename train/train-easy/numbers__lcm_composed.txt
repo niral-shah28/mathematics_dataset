@@ -1,0 +1,6 @@
+Let w = 8 - -6. Let o = 46 - 26. Calculate the smallest common multiple of w and o.
+140
+Calculate the common denominator of -87/74 and 0 + -1*53/18.
+666
+Let i(r) = -2*r. Let l(d) = 1. Let a(t) = i(t) - 6*l(t). What is the smallest common multiple of 9 and a(-5)?
+36

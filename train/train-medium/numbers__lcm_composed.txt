@@ -1,0 +1,6 @@
+Let z be 1/6 + (-203)/(-42). Suppose z*y - 12 = 3, n - 52 = -2*y. What is the smallest common multiple of 8 and n?
+184
+Let o(p) = 3*p**2 - 2*p - 7. Let s be o(7). What is the lowest common multiple of (s/(-7))/(9/(-12)) and 27?
+216
+Let i = 61 + -65. What is the common denominator of 113/20 and 1*(-2)/i + -3?
+20

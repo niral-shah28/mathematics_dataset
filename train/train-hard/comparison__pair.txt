@@ -1,0 +1,6 @@
+Is 1 at least as big as -764/252643?
+True
+Is 2881 >= 19194?
+False
+Which is smaller: 41/4 or -1/1190506?
+-1/1190506

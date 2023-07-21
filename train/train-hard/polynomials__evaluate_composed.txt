@@ -1,0 +1,6 @@
+Let c(s) = -s**3 - 4*s**2 - 3. Let j(x) = -4 + 115*x**2 - x**3 - 69*x**2 - 59*x**2. Let l be -18 + 8 - ((0 - -3) + 0). Let o be j(l). Calculate c(o).
+-3
+Let a(n) be the second derivative of n**5/20 - n**4/2 + 4*n**3/3 - 4*n**2 - 1183*n. Determine a(6).
+40
+Suppose 79 = g + 115. Let y be (g/(-3))/(6/(-4)). Let q(n) = -n**2 - 9*n - 16. Calculate q(y).
+-8

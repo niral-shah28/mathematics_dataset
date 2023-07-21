@@ -1,0 +1,6 @@
+Let h be (0 - (3 - 1))/(2/(-15)). What is the greatest common divisor of 6 and h?
+3
+Let k(l) = l**2 - l + 55. Let y be k(0). Suppose -m = -y - 77. Let c = -308 + 320. What is the greatest common divisor of c and m?
+12
+Let c be -4 - (2 - 11)/(0 - -1). Let d be (30/8)/((-1)/(-4)). Calculate the highest common factor of c and d.
+5

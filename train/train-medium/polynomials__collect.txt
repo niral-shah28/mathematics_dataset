@@ -1,0 +1,6 @@
+Collect the terms in -3*i**2 - 4*i**2 - 10*i**2 + 3*i**2 - 7*i**2.
+-21*i**2
+Collect the terms in 14231*j**3 - 14224*j**3 + 23*j - 23*j.
+7*j**3
+Collect the terms in 11643*p**3 + 7840*p**3 - 19484*p**3.
+-p**3

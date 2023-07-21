@@ -1,0 +1,6 @@
+Calculate prob of picking 1 d, 1 m and 1 y when three letters picked without replacement from {d: 2, y: 1, s: 2, t: 1, m: 1}.
+2/35
+What is prob of picking 2 b, 1 n and 1 z when four letters picked without replacement from bwdzbdbzzdnbbbzdzz?
+1/34
+Calculate prob of picking 2 x and 1 a when three letters picked without replacement from {k: 4, e: 2, x: 3, a: 8}.
+3/85

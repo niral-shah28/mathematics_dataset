@@ -1,0 +1,6 @@
+Calculate prob of picking 4 t when four letters picked without replacement from {t: 8, b: 3}.
+7/33
+Calculate prob of picking 1 e and 2 v when three letters picked without replacement from eovooeeeevovov.
+15/182
+Calculate prob of picking 1 c and 2 q when three letters picked without replacement from hcqgqccchhhg.
+1/55

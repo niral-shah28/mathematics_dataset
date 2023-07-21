@@ -1,0 +1,6 @@
+Let j be 1/1*1*-2. Put 13, j, -5 in decreasing order.
+13, j, -5
+Let d = -33 - -37. Sort d, -3, -49.
+-49, -3, d
+Let i = 90 + -274/3. Let g = 11 - 11. Let u = 13 - 13.1. Put u, g, i in decreasing order.
+g, u, i

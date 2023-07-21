@@ -1,0 +1,6 @@
+Let d = -10.656 - -5.656. Let b = 1.7 + -1.5. Put d, -0.2, -4, b in descending order.
+b, -0.2, -4, d
+Let m = -2373 + 2375. Put m, -7, 35 in descending order.
+35, m, -7
+Let v = 3.58 - 3.998. Let b = -0.042 + v. Let l = b + 0.06. Put 0, l, -3/8, 0.3 in decreasing order.
+0.3, 0, -3/8, l

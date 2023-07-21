@@ -1,0 +1,20 @@
+Let m = -0.2 - 0. Let r be -18 + 3 - (-321)/21. What is the smallest value in r, 1/4, 1, m?
+m
+Let i = 19743.5 - 19743. Let p = -7 - -13. Let l = -11 + p. Which is the third biggest value?  (a) i  (b) l  (c) 1/3
+b
+Let g = 0 + 5. Let a = 28.78 - 28.48. What is the smallest value in g, a, -3?
+-3
+Let t = -2/57 + -43/399. Let s be (2/140*-12)/(60/(-28)). What is the smallest value in s, t, -10?
+-10
+Let w = 1438 - 1438. Let g = 10.74 + 0.26. Which is the smallest value?  (a) -0.5  (b) -1/4  (c) w  (d) g
+a
+Let l = -0.61 - -0.894. Let q = l - 2.284. Let x(t) = 1 - 7*t**3. Let k be x(-1). Which is the third smallest value?  (a) q  (b) 3  (c) k
+c
+Let l = 2843 + -2842.9. Which is the third smallest value?  (a) -17/9  (b) 4  (c) l
+b
+Let k = -46 + 51.2. Let d = -3.6 - k. Let b = 9 + d. What is the smallest value in 0.04, b, -0.1?
+-0.1
+Let w = 19051 + -19048. Let x = 0 - 0. What is the biggest value in -0.4, w, x?
+w
+Let f be 29 - 28 - 70/156. Let p = f + -2/39. Let o = 0.03 - 0.43. Which is the smallest value?  (a) p  (b) -2  (c) o
+b

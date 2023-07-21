@@ -1,0 +1,6 @@
+Let q(v) = v**2 + 9*v. Let h be q(-9). Let j(o) = o**3 + o**2 - o - 1. Let f be j(-1). Suppose f*i - 2 = -2*i. Is h >= i?
+False
+Let q be 19/5 - (-3)/15. Suppose -2*j - 6 = -5*k - 0*k, -q*k + 12 = 2*j. Let l = 3 - k. Is 1/2 equal to l?
+False
+Suppose -2*q = 5*g - q - 6, -4*g - 12 = 5*q. Suppose 15 = 4*x + x. Suppose -x*r - 36 = -4*b + 2*r, 5*b - 4*r = 36. Is g at least b?
+False

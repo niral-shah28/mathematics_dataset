@@ -1,0 +1,6 @@
+Let k = 8741.97 - 8660. Let u = 82 - k. What is the closest to 1 in -0.5, -3/4, u?
+u
+Let x(t) be the second derivative of t**3/3 - 18*t**2 + 19*t. Let w be x(17). What is the nearest to -1/2 in 1/6, w, 2?
+1/6
+Let m = 0.137 + 0.413. Let f = m - 0.15. Let j = 0 - 0.2. Which is the closest to 1/4?  (a) 2  (b) f  (c) j
+b

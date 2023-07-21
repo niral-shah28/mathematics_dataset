@@ -1,0 +1,6 @@
+Suppose 40 = -5*q - 0*q. Let v(s) = -26*s - 34. Let u(w) = -77*w - 104. Let a(o) = 3*u(o) - 8*v(o). What is the least common multiple of 10 and a(q)?
+720
+Let i = 167 - 163. Calculate the smallest common multiple of ((-2)/i)/(4 + (-245)/60) and 54.
+54
+Let u(v) = -2*v**2 - 8*v + 49. Let i be u(-11). What is the smallest common multiple of 6 and i/15 - (-278 - -1)?
+270

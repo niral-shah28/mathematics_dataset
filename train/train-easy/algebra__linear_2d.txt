@@ -1,0 +1,6 @@
+Solve 0 = -5*x - 5*h + 25, 3*h - 75 + 74 = 4*x for x.
+2
+Solve v = -3*x - 6, 4*v = -0*v + x + 15 for v.
+3
+Solve c - 6*c + i + 9 = 0, c - 21 = 5*i for c.
+1

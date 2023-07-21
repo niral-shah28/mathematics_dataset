@@ -1,0 +1,6 @@
+Rearrange (-2*j**3 + 10*j**3 + 13*j**3)*(2*j + 508 - 261 - 140) to q + w*j**4 + i*j**2 + m*j + p*j**3 and give p.
+2247
+Rearrange -197 - 3002*c - 4416*c + 197 - 189*c to a*c + g and give a.
+-7607
+Express 103424*l - 103424*l + 39*l**3 + 4*l**3 + 15*l**3 + 3*l**3 + (-3*l**2 + 4*l**2 + l**2)*(-3*l + l + 4*l) in the form f*l + q + z*l**2 + j*l**3 and give j.
+65

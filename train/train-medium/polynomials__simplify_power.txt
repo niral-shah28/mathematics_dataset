@@ -1,0 +1,6 @@
+Simplify (m**(1/5))**(-22)*(((m/((m**(-3/5)/m)/m))/m)/m)**(-6/11) assuming m is positive.
+m**(-58/11)
+Simplify ((o**(1/11))**(-1/9))**(-3/2) assuming o is positive.
+o**(1/66)
+Simplify (((x**(-13)*x)/x*x)/x*x)/x**(-8)*(x**(-2))**19 assuming x is positive.
+x**(-42)

@@ -1,0 +1,6 @@
+Rearrange 13*n - 36 + 2*n + 2*n**2 + 36 to t + p*n + k*n**2 and give p.
+15
+Rearrange 3*d - 11*d - 10*d to y*d + f and give f.
+0
+Express (68 - 5 + 8)*(-4*k - k + 3*k)*(-3 + 0 + 2) in the form x*k + w and give w.
+0

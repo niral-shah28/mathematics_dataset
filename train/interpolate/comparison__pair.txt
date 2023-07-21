@@ -1,0 +1,20 @@
+Which is bigger: -603595/46 or -13121?
+-13121
+Is 6191410/3 bigger than 2063804?
+False
+Is -5099 equal to -183517/36?
+False
+Which is smaller: -52/15 or 28.086?
+-52/15
+Which is greater: 0 or 111/388795?
+111/388795
+Is -29838 > -30038?
+True
+Is -16040066/13 equal to -0.1?
+False
+Is 128682 at most as big as 128800?
+True
+Which is smaller: -81 or -14486?
+-14486
+Which is smaller: 7889678 or 7889681?
+7889678

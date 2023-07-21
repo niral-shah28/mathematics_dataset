@@ -1,0 +1,6 @@
+Let k be 6 - (133 + 35/5). What is the remainder when 4 - (-1)/(-2)*k is divided by 15?
+11
+Let t = -402 - -482. Suppose -2*z - 2 = 0, 3*w - 4*z - 54 = -7*z. Calculate the remainder when t is divided by w.
+4
+Suppose 5*c = 2*c + 15. Let w be (1 + 18/(-10))/((-2)/90). Suppose -5*n = w - 51. What is the remainder when c is divided by n?
+2

@@ -1,0 +1,20 @@
+Is 16 a factor of 109254192?
+True
+Is 8 a factor of 12563656?
+True
+Is 48848856 a multiple of 21?
+True
+Is 9212702 a multiple of 25?
+False
+Is 13705923 a multiple of 77?
+True
+Is 57782215 a multiple of 89?
+False
+Is 44 a factor of 97377182?
+False
+Does 251 divide 50295129?
+True
+Is 23490049 a multiple of 31?
+False
+Is 30 a factor of 21325260?
+True

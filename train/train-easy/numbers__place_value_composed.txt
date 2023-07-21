@@ -1,0 +1,6 @@
+Let j = -5 - -8. Let d(s) = -s**2 + 7*s - 5. Let f be d(5). Suppose -2*l = -j*l + f. What is the units digit of l?
+5
+Suppose 5*c = -5*n - 0 + 5, -5*c = n - 9. Let t be (1 + (-3)/c)*-6. Suppose p + t*p = 80. What is the units digit of p?
+0
+Let c(f) = 4*f - 7. Let u = -5 - -7. Suppose -12 = -2*q - u. What is the units digit of c(q)?
+3

@@ -1,0 +1,20 @@
+Round 0.001688313 to 3 decimal places.
+0.002
+What is 50107634 rounded to the nearest 1000000?
+50000000
+Round -52696.691 to the nearest ten.
+-52700
+Round -10090.014 to the nearest 100.
+-10100
+Round -2916.03172 to the nearest 100.
+-2900
+What is -4059199600 rounded to the nearest one hundred thousand?
+-4059200000
+What is 3.5169197 rounded to the nearest integer?
+4
+What is 0.088041381 rounded to two decimal places?
+0.09
+What is -0.56392411 rounded to four dps?
+-0.5639
+What is 0.000231948738 rounded to 6 dps?
+0.000232

@@ -1,0 +1,6 @@
+Let i(u) = 2*u**2 + 4*u. Let n = -7 + 6. Let q(o) = -o**3. Let t(x) = n*i(x) - 2*q(x). Determine z, given that t(z) = 0.
+-1, 0, 2
+Suppose 6*w - 2*w - 20 = 0. Let 9*n**3 - 14*n**4 + n**2 + 21*n**w + 6*n**5 + 26*n**4 + 15*n**4 = 0. What is n?
+-1/3, 0
+Let v(u) be the first derivative of -3*u**6/11 - 24*u**5/55 + 19*u**4/11 - 40*u**3/33 + 3*u**2/11 + 12. Solve v(m) = 0 for m.
+-3, 0, 1/3, 1

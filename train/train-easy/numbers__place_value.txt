@@ -1,0 +1,6 @@
+What is the hundreds digit of 926?
+9
+What is the hundreds digit of 2233?
+2
+What is the units digit of 877?
+7

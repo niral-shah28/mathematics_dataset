@@ -1,0 +1,20 @@
+Let p(f) = 3*f**4 + 479*f**3 + 424*f**2 + 2. Let g(w) = w**4 + 3*w**3 + w**2. Let u(d) = 2*g(d) - p(d). Find the third derivative of u(i) wrt i.
+-24*i - 2838
+Let u(r) be the third derivative of -62*r**4/3 + 283*r**3/3 - 6*r**2 - 3*r. Differentiate u(x) wrt x.
+-496
+Let c(b) be the third derivative of 1297*b**4/24 - 415*b**3/6 - 640*b**2 - 1. Differentiate c(z) with respect to z.
+1297
+Let r(k) = k**3 - k - 1. Let u(l) = -36*l**3 + l**2 - 5*l + 11. Suppose 3*y = -24 + 9. Let g(m) = y*r(m) + u(m). Differentiate g(q) with respect to q.
+-123*q**2 + 2*q
+Let h(a) = -295*a**6 - 4*a**5 + 353*a**2 + 6. Let y(c) = -c**6 - 2*c**5 - c**2 + 3. Let z(f) = -h(f) + 2*y(f). What is the third derivative of z(x) wrt x?
+35160*x**3
+Let b(w) = w**3 + 20*w**2 - 7*w + 24. Let m be b(-16). What is the second derivative of -1 + 5 - 2*j - 1113*j**5 + m*j**5 wrt j?
+940*j**3
+Let m(j) = 580*j**3 + 6*j**2 - 677*j + 5. Let t(a) = 579*a**3 + 7*a**2 - 677*a + 6. Let p(f) = 6*m(f) - 5*t(f). What is the second derivative of p(d) wrt d?
+3510*d + 2
+Let x(c) = 25 - 44*c**4. Let t(a) = -749*a + 378*a - 17 + 371*a + 29*a**4. Let r(g) = -8*t(g) - 5*x(g). What is the derivative of r(k) wrt k?
+-48*k**3
+Let f = 52 - 47. Suppose -5*k = 3*h - 76, 0 = -f*k + 2*h + 91. Find the second derivative of 6*u - k*u**2 + 20 - 20 wrt u.
+-34
+Let u(s) be the first derivative of 5*s**6/6 + s**3/3 - 35*s**2 - 32*s + 70. Let w(m) be the first derivative of u(m). Find the first derivative of w(q) wrt q.
+100*q**3 + 2

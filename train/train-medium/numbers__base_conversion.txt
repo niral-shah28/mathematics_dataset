@@ -1,0 +1,6 @@
+-14214 (base 8) to base 9
+-8552
+663 (base 10) to base 9
+816
+Convert -3131311 (base 4) to base 12.
+-8271

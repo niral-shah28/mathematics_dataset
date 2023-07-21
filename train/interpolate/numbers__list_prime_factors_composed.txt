@@ -1,0 +1,20 @@
+Let a be (-208)/36 + (-10)/45. Let h = 13 + a. Suppose -2*b + h + 9 = 0. List the prime factors of b.
+2
+Let u be (5/3)/(4/72). What are the prime factors of (-93)/(-7) + u/(-105)?
+13
+Let n(h) = h**3 - 22*h**2 + 23*h - 32. Let m be n(21). Suppose m*j - 349 = 3551. What are the prime factors of j?
+2, 3, 5, 13
+Suppose 14*b + 20121 = 25*b - 50686. What are the prime factors of b?
+41, 157
+Let y(v) = -v**2 + 11*v - 4. Let p be y(8). Let s = p - 18. Suppose s*u = 4*u - 154. What are the prime factors of u?
+7, 11
+Suppose 0 = -5*b + 25, y - 1 = 2*b + 5. Let h(q) = 3*q**2 - 40*q + 35. List the prime factors of h(y).
+163
+Let u(z) = -z**2 - 4*z + 35. Let d be u(-8). What are the prime factors of 8/((-8)/d) + 28?
+5
+Suppose 4*g - 9*p - 36860 = -6*p, -2*p - 92172 = -10*g. List the prime factors of g.
+2, 11, 419
+Suppose x + 740 = 123. Let g = -333 - x. What are the prime factors of g?
+2, 71
+Suppose -4*g - 2 = -3*v, -4*v - 5*g = -7*v + 1. Suppose v*n = -n + 135. Suppose -5*w + 5*p + 75 = 0, n = 5*w - 2*p - 42. What are the prime factors of w?
+19

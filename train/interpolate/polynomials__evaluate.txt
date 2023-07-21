@@ -1,0 +1,20 @@
+Let a(w) = w**3 - 3723*w**2 + 446276*w + 4. Determine a(124).
+4
+Let p(f) = -f**3 - 453*f**2 - 97*f - 43945. What is p(-453)?
+-4
+Let p(g) = 5*g**2 - 226*g + 1905. Calculate p(34).
+1
+Let h(l) = -12*l**2 - 674*l - 38. What is h(-55)?
+732
+Let a(t) = t**3 - 29*t**2 + 395*t - 362. Give a(1).
+5
+Let p(u) = 1893*u - 10947. What is p(6)?
+411
+Let w(d) = 130462 - 3034*d. Calculate w(43).
+0
+Let p(m) = m**3 - 384*m**2 - 777*m + 1939. What is p(386)?
+9
+Let u(v) = 2692 - 15*v. Calculate u(185).
+-83
+Let m(k) = k**2 + 206*k - 3860. Determine m(17).
+-69

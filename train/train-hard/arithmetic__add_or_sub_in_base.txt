@@ -1,0 +1,6 @@
+In base 12, what is -28808747 + -4?
+-2880874b
+In base 7, what is 6411 + 141?
+6552
+In base 8, what is -2 + -576116726?
+-576116730

@@ -1,0 +1,6 @@
+What is the y'th term of -38508, -77036, -115564?
+20 - 38528*y
+What is the c'th term of 3432, 6861, 10290, 13719, 17148, 20577?
+3429*c + 3
+What is the k'th term of 4753, 19041, 42863, 76219?
+4767*k**2 - 13*k - 1

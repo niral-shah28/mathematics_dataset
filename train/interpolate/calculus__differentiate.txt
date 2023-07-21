@@ -1,0 +1,20 @@
+Find the first derivative of 3867992*a + 10577394 wrt a.
+3867992
+What is the first derivative of -9*h**2*m**3*t + 166*h**2 + 4430*h*m**3 - 582591*m*t wrt t?
+-9*h**2*m**3 - 582591*m
+What is the second derivative of -2*u**3*y - 4*u**2*y + 89441*u**2 - u*y - 250*u + 6*y - 6 wrt u?
+-12*u*y - 8*y + 178882
+Find the first derivative of -45*a**3 - 17375*a - 15124306.
+-135*a**2 - 17375
+Find the third derivative of 310987*u**5 - 2*u**4 - 5*u**3 - 12427505*u**2.
+18659220*u**2 - 48*u - 30
+What is the second derivative of -13061770*k**2 - 2*k + 6176328 wrt k?
+-26123540
+Find the third derivative of -11241163*p**4 + 166592*p**2 + 2*p - 5.
+-269787912*p
+What is the second derivative of -17*v**3*w**3 - 16*v**3 + 163*v**2*w**3 - 680*v*w - 78*w**2 + 10*w wrt w?
+-102*v**3*w + 978*v**2*w - 156
+Differentiate 3064*f**3*u + 5377*f**3 + 8*f**2 + 2164*f*u - 14*f - 2 wrt u.
+3064*f**3 + 2164*f
+Find the third derivative of 75599*a**4*o**2 - 3*a**4*o + a**4 + 32*a**2*o**2 + 25766*a*o**2 wrt a.
+1814376*a*o**2 - 72*a*o + 24*a

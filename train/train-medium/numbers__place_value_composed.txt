@@ -1,0 +1,6 @@
+Suppose 0 = 4*z + 5*j - 166, -6*z + 2*z + 162 = 3*j. What is the tens digit of z?
+3
+Let i = 1295 - 798. What is the units digit of i?
+7
+Suppose 279*j = 284*j - 6530. What is the tens digit of j?
+0

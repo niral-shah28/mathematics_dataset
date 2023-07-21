@@ -1,0 +1,6 @@
+Let p(d) = -2*d - 305 + 333 - d. Let h be p(8). Suppose 0 = g - 5. Solve 3*y - 1 = h*v, v + g*y + 7 = -v for v.
+-1
+Suppose o + 31*o - 96 = 0. Let z = -25 + 34. Solve 0 = 5*s + o*m + z, -3 = m - 5 for s.
+-3
+Let g(b) = 262*b + 4465. Let v be g(-17). Solve -3*q + 27 = 5*j, -4*q + 4*j + v - 7 = 0 for q.
+4

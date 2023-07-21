@@ -1,0 +1,20 @@
+Let d(z) = 74*z**2 - 4413*z + 30*z**2 + 4413*z. Let v(w) = -w. What is v(d(j))?
+-104*j**2
+Let t(z) = 12*z. Let n(d) = -27*d**2 + 20*d - 10. Let v(o) = -836*o**2 + 616*o - 308. Let s(x) = -154*n(x) + 5*v(x). What is s(t(m))?
+-3168*m**2
+Let b(n) be the first derivative of n**2/2 + 186. Let d(m) = m + 738. Determine b(d(o)).
+o + 738
+Let w(g) = 26*g**2. Let x(n) = 2*n - 16. Let r(k) = 54 - 6*k. Let o(i) = 3*r(i) + 10*x(i). What is w(o(u))?
+104*u**2 + 208*u + 104
+Let a(w) = -819*w**2. Let y(f) be the third derivative of f**5/30 - 324*f**2. Determine y(a(j)).
+1341522*j**4
+Let a(y) = -13*y**2. Let h be (-5*3/(-5))/(3/5). Suppose h*v - 6 = v + 2*o, 5*v + 5*o - 15 = 0. Let r(p) = 5*p + p - v*p - 5*p. Calculate r(a(i)).
+13*i**2
+Let k(w) = 5 - 111*w**2. Let h(q) = 7591*q**2. What is k(h(j))?
+5 - 6396184191*j**4
+Let o(k) = k - 8. Let b(j) = -113450*j. What is b(o(d))?
+907600 - 113450*d
+Let y(m) = -3*m. Let b = 13 + -10. Let c(p) = 3*p - 3*p + 7*p - b*p. Calculate c(y(k)).
+-12*k
+Let z(i) be the third derivative of 7*i**2 + 0*i**3 + 0 + 0*i - 5/3*i**4. Let f(b) be the second derivative of b**3/3 + 6*b - 3. Give z(f(n)).
+-80*n

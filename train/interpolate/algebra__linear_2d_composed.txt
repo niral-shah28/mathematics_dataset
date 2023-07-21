@@ -1,0 +1,20 @@
+Let k be 15/10 - (-1)/(8/(-52)). Let r be k/((-10)/(-12))*-1. Solve -2*j = m - 3*m + r, 5*j + 4*m = 3 for j.
+-1
+Let d be 1 + (-34)/(-8) + 58/(-232). Suppose -d*g = 5*t - 10, 0 = -t + 3*g + 12 + 2. Solve 4*p + 9 = -t*w + 37, -4*w = -2*p - 12 for p.
+2
+Let t be ((1/4)/1)/(8/96). Suppose -t*h + 0 = -d - 6, -6 = -2*d. Solve -f - h*v - 10 = -0*v, -3*f - 4 = -4*v for f.
+-4
+Let f = 4045 + -4035. Solve -5*k - 3*y = -6*k + 2, 3*y = -5*k + f for k.
+2
+Let k(f) = -f**3 + 6*f**2 + 2*f + 39. Let i be k(7). Solve 5*v = -h - h + 9, -i = -2*h for v.
+1
+Let p be (-213)/(-9) - 1/(-3). Suppose 17*i = 13*i + 580. Let d = i + -142. Solve -2*n + 9 = -d*n - 4*z, 5*n + p = z for n.
+-5
+Suppose -17 = -3*y + 4*n, 4*y - 23 = -3*y + n. Solve -g - 2 = 0, -3*l + y*g = -7 + 16 for l.
+-5
+Let s = -2692 + 2696. Solve 0 = -5*m + 3 + 7, -4*g + 2*m + s = 0 for g.
+2
+Let y = 49 + -44. Suppose -y*m - 6 + 21 = 0. Suppose 3*f + 3*u - 12 = 0, -f + m*u + 13 = f. Solve 0 = 5*k - f*a + 45, -4*a = -5*k - 2*a - 33 for k.
+-5
+Suppose 10*n = 6*n + 8. Let c(m) = 2*m - n*m - 14 + m - 2*m. Let h be c(-19). Solve -12 = 4*z - 4*o, h*o = -3*z + 1 - 2 for z.
+-2

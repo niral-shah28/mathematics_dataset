@@ -1,0 +1,20 @@
+Let q(g) be the first derivative of g**4/4 - 13*g**3/3 + 15*g**2/2 - 29*g - 1019. What is q(12)?
+7
+Let t be (8/10)/((-32)/(-80)). Let y(q) = 2*q + 1 + 9*q**3 - 10*q**3 + t - q**2 + 4*q**2. Determine y(4).
+-5
+Let y = -2 - -4. Suppose -r = -y*r + 5. Let h(t) be the third derivative of t**5/60 - t**4/3 + 7*t**3/6 - 2*t**2 - 4. Calculate h(r).
+-8
+Let q(j) = j**3 - 5*j**2 - 11*j + 55. Let h(p) = -2*p**2 + 3*p + 108. Let i be h(8). Determine q(i).
+-5
+Let c = -4 + 10. Let q(z) be the third derivative of 0 + 1/4*z**4 - 38*z**2 - 1/60*z**5 - 1/3*z**3 + 0*z. Give q(c).
+-2
+Let p(z) = 2*z**2 + 7*z. Let w be p(-6). Suppose -a = -3*x + 47, -4*a + 0*a - 68 = -4*x. Let y(t) = -x*t + w*t - 10 + t**2 - 11*t. Give y(-7).
+11
+Let r be (-2)/(-8) + (-2)/8. Let i(s) be the third derivative of -s**5/60 - s**4/24 - s**3 + 2*s**2 + 1365*s - 2. Give i(r).
+-6
+Let n(t) = -2*t**2 + 47*t - 255. Let y be n(9). Let d(g) = -g**3 + 5*g**2 + 9*g - 1. What is d(y)?
+17
+Let v(c) = c**2 - c + 42. Suppose 50*p - 20 = 49*p - 4*x, -3*x + 15 = -3*p. Determine v(p).
+42
+Let m(r) = 12*r - 9 - 26*r + 11*r. Let y(n) = 12*n + 37. Let j(z) = 9*m(z) + 2*y(z). Let q be (-4)/10 + (-112)/20. Determine j(q).
+11

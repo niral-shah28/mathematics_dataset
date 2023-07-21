@@ -1,0 +1,20 @@
+Express 2213134*l**2 - l - 2213140*l**2 - 4*l**3 + 4*l + 6 as z + b*l**2 + m*l + w*l**3 and give m.
+3
+Rearrange -45 - 6 + 4*w + 8 - 18 to the form b + a*w and give b.
+-61
+Rearrange -4*k - 5*k + k - 1 + 2 - k - 2 + 6*k + 24*k + 4*k + k - k - k + (-1 + 1 + 2)*(-2*k - 2 + 2) to g + v*k and give v.
+20
+Express -11003*z**4 - 5*z**3 + 10090*z**4 + 3*z**3 + (-2*z + z + 3*z)*(-z**3 + 3*z**3 + 0*z**3) as g*z**2 + t + a*z**3 + l*z + o*z**4 and give o.
+-909
+Express 200*b - 10*b**2 - 98*b - 101*b - 2*b**2 - 27 - 2*b**2 in the form h + v*b + n*b**2 and give h.
+-27
+Express 739*f - 1506*f + 767*f - 28*f**3 + 5*f**2 + 327*f**3 in the form v + i*f + h*f**3 + t*f**2 and give t.
+5
+Rearrange (d + 0*d + 0*d)*(140*d - 51*d - 23*d + 104*d)*(-1 + 4 - 2*d + 0) to the form k*d**2 + c*d + i*d**3 + l and give i.
+-340
+Rearrange -b**3 + 393*b**2 - 225*b**2 + 5*b**4 - 174*b**2 - 1 - 2*b - b**3 to k + i*b**4 + a*b**2 + o*b**3 + r*b and give a.
+-6
+Express (5*n - 4*n - 5*n)*(-1176 - 401*n**3 + 1176) + 4*n**4 - 4*n**4 + n**4 in the form m*n**4 + h*n**3 + g*n + x + z*n**2 and give m.
+1605
+Rearrange 9*j**2 + 3 - 3 - 175*j**2 - j - 273*j**2 to p + a*j**2 + x*j and give a.
+-439

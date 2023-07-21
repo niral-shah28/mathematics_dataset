@@ -1,0 +1,6 @@
+Let n(h) = 2*h - 8. Let g(i) = 29 - 10 - 9 + 5*i - 10. Calculate g(n(s)).
+10*s - 40
+Let u(d) = -3*d. Let t(p) = -20064*p**2 - p. Determine t(u(n)).
+-180576*n**2 + 3*n
+Let c(p) = -33*p. Let a(n) be the second derivative of n**6/360 + 5*n**4/12 - 22*n. Let m(j) be the third derivative of a(j). Calculate c(m(x)).
+-66*x

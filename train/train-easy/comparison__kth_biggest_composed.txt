@@ -1,0 +1,6 @@
+Let h = -38.5 - -33. What is the biggest value in h, -2/9, 0?
+0
+Let l = -499 - -9478/19. Let v = l - 4/95. What is the third smallest value in -1, v, 4?
+4
+Let u = 201/4 + -50. What is the second biggest value in -1, u, 8?
+u

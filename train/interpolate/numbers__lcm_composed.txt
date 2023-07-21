@@ -1,0 +1,20 @@
+Let w = -2747 - -2771. Calculate the lowest common multiple of w and 1851.
+14808
+Suppose -69*l = -4*r - 67*l + 1288, -4*r + 3*l + 1290 = 0. What is the lowest common multiple of r and 12?
+1284
+Let g = -523261519630992403/2410042504992 + -160/3963885699. Let q = g - -217117. Calculate the common denominator of q and 133/12.
+1824
+Suppose -5*x = 4*n + 38, -x - 2*n = -n + 7. Let f be ((-3)/(-2) + -3)/(3/x). What is the common denominator of 8/f - 2 - 1286/60 and -49/8?
+24
+Suppose 4*j - j + 5*v = 55, -3*v = 2*j - 37. Let k(t) = t - 1. Let h be k(3). Calculate the smallest common multiple of j and (-8)/(-16)*(4 - h).
+20
+Suppose -3*a + d + 62 = 0, -2*a - 4*d = 32 - 92. Let k be (-16)/(-24)*(-54)/(-4). Let u(r) = 3*r - 5. Calculate the smallest common multiple of a and u(k).
+22
+Suppose 13 = -5*v + 3*k - 0*k, -v = -4*k + 6. Calculate the least common multiple of 7 and 3 - (v + 4 + -3) - -7.
+77
+Let c = -510/83 - -2456077/399728. Find the common denominator of 7/20 and c.
+24080
+Let k(f) be the first derivative of -18*f**4 + f**3/3 - f**2 - 2*f - 12. Let t be k(-1). Let d = 131 - t. Calculate the smallest common multiple of 10 and d.
+290
+What is the least common multiple of 10 and (2541714/292)/(6/4)?
+58030

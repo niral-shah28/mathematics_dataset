@@ -1,0 +1,6 @@
+In base 11, what is -5aa + 5?
+-5a5
+In base 16, what is 1 + -1cb?
+-1ca
+In base 5, what is 232 - 300?
+-13

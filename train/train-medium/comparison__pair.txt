@@ -1,0 +1,6 @@
+Do 639396 and 639395 have the same value?
+False
+Which is smaller: -28407 or -56817/2?
+-56817/2
+Are 1439.9 and 4/85 equal?
+False

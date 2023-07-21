@@ -1,0 +1,6 @@
+Suppose -12*t + 0 + 24 = 0. Solve t*f - 2 = 3*f for f.
+-2
+Let k = 1 - 2. Let i be -9 - (k - (-3 + 2)). Let a be (-20)/i + 4/(-18). Solve 0 = -a*h + 6*h - 12 for h.
+3
+Let z be 1 + 516/126 + 4/(-42). Solve -z - 19 = 8*s for s.
+-3

@@ -1,0 +1,6 @@
+Which is the smallest value?  (a) 1/10  (b) -9  (c) 5  (d) -4  (e) 0.2
+b
+Which is the third biggest value?  (a) 5  (b) -2/563  (c) -0.1
+c
+What is the third biggest value in -0.6, 17, -2?
+-2

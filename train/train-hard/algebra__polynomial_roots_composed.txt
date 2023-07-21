@@ -1,0 +1,6 @@
+Let i(l) be the first derivative of -1/2*l**3 + 13 + 1/48*l**4 - 24*l + 9/2*l**2. Let m(c) be the first derivative of i(c). Factor m(t).
+(t - 6)**2/4
+Let z(y) = -y**3 + 40*y**2 - 9*y - 288. Let n be z(40). Let u be 2 + 6 - n/(-84). Factor -u*x - 2/7*x**2 + 0.
+-2*x*(x + 1)/7
+Let h(r) be the first derivative of -6 - 1/13*r**2 - 1/130*r**5 - 4*r + 1/39*r**3 + 1/78*r**4. Let q(u) be the first derivative of h(u). What is n in q(n) = 0?
+-1, 1

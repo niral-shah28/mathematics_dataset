@@ -1,0 +1,6 @@
+Calculate prob of sequence axa when three letters picked without replacement from {n: 2, x: 1, q: 4, a: 1}.
+0
+Calculate prob of sequence prr when three letters picked without replacement from {m: 1, r: 3, p: 4}.
+1/14
+What is prob of sequence sisi when four letters picked without replacement from {i: 15, s: 5}?
+35/969

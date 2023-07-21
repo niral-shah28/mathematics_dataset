@@ -1,0 +1,6 @@
+Let x(v) be the third derivative of -55*v**6/12 + 127*v**4/8 + 747*v**2. Find the second derivative of x(h) wrt h.
+-3300*h
+Differentiate -3582 + 77*n + 4914*n**4 - 118*n + 41*n wrt n.
+19656*n**3
+Let m(k) be the second derivative of -2253*k**5/20 + 16*k**4/3 - 4*k**3/3 + k**2 - 3*k + 23. What is the third derivative of m(x) wrt x?
+-13518

@@ -1,0 +1,6 @@
+Find the third derivative of 2*w**6 - 164*w**3 + 76*w**2 - 3.
+240*w**3 - 984
+What is the second derivative of 323*c**2*o**2 - c**2*o - 5*c**2 + c*o**2 - 9*o**2 - 2*o - 65 wrt o?
+646*c**2 + 2*c - 18
+Find the second derivative of -28*m*v*w**2 - 4*m*v*w + 2*m*v + 29*m*w**2 - 2*m*w - v*w - w wrt w.
+-56*m*v + 58*m

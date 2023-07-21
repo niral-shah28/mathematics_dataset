@@ -1,0 +1,6 @@
+Find the first derivative of -1552*t**3 - 1559*t**2 - t + 104406292 wrt t.
+-4656*t**2 - 3118*t - 1
+What is the derivative of -3*n**2 - 6185266*n + 35611959?
+-6*n - 6185266
+What is the second derivative of 2*s**2*t**3 + 24*s**2*t - s**2 + 12100570*s*t**3 - 12423*t + 1 wrt t?
+12*s**2*t + 72603420*s*t

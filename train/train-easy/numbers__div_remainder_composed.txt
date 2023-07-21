@@ -1,0 +1,6 @@
+Let c(t) = t**2 + 4*t + 5. Let r be c(-4). Suppose r*l - 2*l = 33. Calculate the remainder when l is divided by (21/6)/((-1)/(-2)).
+4
+Suppose 0 = 4*q - 0 - 12. Suppose 3 = -q*l + 4*l. Calculate the remainder when 4 is divided by l.
+1
+Suppose p = 6*p - 3*k - 154, -5*p - 2*k + 139 = 0. Suppose -5*z + p = -16. What is the remainder when 26 is divided by (-2)/z - (-332)/36?
+8

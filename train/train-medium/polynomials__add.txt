@@ -1,0 +1,6 @@
+Let x(b) = -7 - 8 + 2 - 13 + 23. Let y(t) = t - 1. Calculate -x(d) + 4*y(d).
+4*d - 1
+Let m(u) = 25*u + 12. Let l be m(0). Let p(a) = -6*a**2 - 12*a - 12. Let y(n) = -n - 1. What is l*y(x) - p(x)?
+6*x**2
+Let g(j) be the third derivative of j**4/2 - 7*j**3/3 + 4420*j**2. Let i(z) = 5 - 4*z. Suppose 0 = -4*t - 0*t + 12. Give t*g(p) + 8*i(p).
+4*p - 2

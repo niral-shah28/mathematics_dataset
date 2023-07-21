@@ -1,0 +1,6 @@
+Let a be (-5 - 87/(-18)) + (-76318)/12. Let o = a + 1520. What is o rounded to the nearest one thousand?
+-5000
+Let u = 0.4886 + -0.0086. What is u rounded to the nearest ten?
+0
+Suppose 4*w = -4*x + 40, 2*w + 2*w = 2*x + 52. Let g = w - 5. Suppose g*j = -4*t + 4*j + 91194, -j + 91198 = 4*t. Round t to the nearest one thousand.
+23000

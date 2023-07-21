@@ -1,0 +1,6 @@
+Let y(d) = d**2 - 3*d - 8. Suppose c + 5*j - 28 = 0, -4*j + 7*j - 20 = -c. Let t = -2 + c. What are the prime factors of y(t)?
+2, 5
+Let w(n) = 13*n**2 + 7*n - 17. List the prime factors of w(6).
+17, 29
+Let h(u) = -12*u - 20. Let o be h(5). Let l = -38 - o. List the prime factors of l.
+2, 3, 7

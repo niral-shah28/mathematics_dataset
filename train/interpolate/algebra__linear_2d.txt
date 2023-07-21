@@ -1,0 +1,20 @@
+Solve 10 = -5*r + 8*h, -58 = -3*r + 20*h - 31 + 43 for r.
+-10
+Solve 4*t + 3*k + 10097 = 10123, 0 = -5*t + 6*k - 65 for t.
+-1
+Solve 73*f - 118*f = -46*f + l + 3, 4*f - 5*l = 14 for f.
+1
+Solve 2157 - 2172 = 3*q - 3*v, -3*q + 4*q + 2*v = 1 for q.
+-3
+Solve 5*p + l = 11, p - 135 + 116 = -17*l for p.
+2
+Solve 179138*p + 4*v + 25 = 179141*p, 5*p - 4*v = 31 for p.
+3
+Solve 7*w + a = 57, -2*a - 14 = 15*w - 3*w - 14*w for w.
+8
+Solve l - 10 = 7*q, 3*l = -4*q + 15*l - 14*l + 20 for q.
+0
+Solve -c = -2*c - 4*i - 98, -20*c + 56 = -17*c - 2*i for c.
+2
+Solve -7*x - 70 = u, -202 = 3*x + 5*u + 372 - 384 for x.
+-5

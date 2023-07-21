@@ -1,0 +1,20 @@
+Let f(a) = -a**3 - a**2. Let o(z) = -6*z**3 - 12*z**2. Suppose -1 = -230*c + 229*c. Let q be 232/(-20) + (-4)/10. Give c*o(d) + q*f(d).
+6*d**3
+Suppose 0 = 3*s + 631 - 682. Let k(w) = 11*w - 41. Let a(o) = 4*o - 14. What is s*a(n) - 6*k(n)?
+2*n + 8
+Let n(s) = s - 4. Let j(w) = 1. Let t(z) = 13*z - 29. Let c be t(2). Let k(u) = u - 2. Let l(q) = c*j(q) + k(q). Determine -3*l(x) + 4*n(x).
+x - 1
+Suppose 391*t + 44 = 369*t + 176. Let o(h) = 2*h**2 + 5*h + 5. Let g(s) = 5*s**2 + 11*s + 11. What is t*g(f) - 13*o(f)?
+4*f**2 + f + 1
+Let q(s) = -s**2 + 2*s. Let t(w) = 19*w**2 + 37*w. Calculate -q(g) - t(g).
+-18*g**2 - 39*g
+Let s(z) = 4 - 1 + 8*z**2 - 5*z**2. Let n(q) = 4*q**2 + 4. Suppose 0 = -u - l - 7, -4*u - 40 = 5*l - 9. Let p be (1 + 0 - 0)*u. Determine p*n(t) + 5*s(t).
+-t**2 - 1
+Let q(y) = -231 - 238 + 472 - 4*y**2 - 3*y**2. Let z(i) = 13*i**2 - 7. Calculate -7*q(n) - 4*z(n).
+7 - 3*n**2
+Let j(z) = 27*z - 12. Let m(p) = -47*p - 48. Let n(a) = 32*a + 35. Let l(d) = -5*m(d) - 7*n(d). Give -5*j(v) + 12*l(v).
+-3*v
+Let v(d) = 895*d + 5. Let g(p) = -2679*p - 13. Determine -3*g(y) - 8*v(y).
+877*y - 1
+Let x(r) = 7 - 6*r. Let t(k) = 6 - 5*k. Let z(l) = 7*t(l) - 6*x(l). Let q be (4/(-3))/((-6)/(-126)*7). Let g(s) = -s. Give q*g(j) - 5*z(j).
+-j

@@ -1,0 +1,6 @@
+Suppose -2*c - c - 18 = -f, 0 = -5*f - 2*c + 5. Suppose -f*u = 4*x - 19, -15 = -4*x - 3*u + 4*u. What is the first derivative of 2*d - 5 - x*d + 3 wrt d?
+-2
+Suppose -1 + 9 = 4*u. Find the first derivative of -u + f**3 - 2*f**3 + 1 wrt f.
+-3*f**2
+Let c(w) = w**3 + 4*w**2 - 8*w + 4. Let j(y) = y**3 + 5*y**2 - 9*y + 5. Let b(s) = 5*c(s) - 4*j(s). Find the second derivative of b(l) wrt l.
+6*l

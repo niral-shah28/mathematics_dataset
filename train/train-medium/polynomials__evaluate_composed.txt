@@ -1,0 +1,6 @@
+Let r(n) be the second derivative of n**5/20 - n**4/4 + n**2/2 - 72*n. What is r(4)?
+17
+Let q be (-14)/21 - (-4)/6. Suppose q = -2*k - 0*k + 22. Let s = -6 + k. Let x(u) = u**2 - 6*u + 4. Determine x(s).
+-1
+Let o(i) = 47 + 65 - 4*i + 87 + 43 - 192. Give o(14).
+-6

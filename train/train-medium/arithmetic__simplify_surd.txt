@@ -1,0 +1,6 @@
+Simplify (-5 + ((sqrt(286)*-1)/sqrt(11) - 3*sqrt(104)/sqrt(4))/(sqrt(162) - (sqrt(162) - (-5*(-2*sqrt(162) - sqrt(162)) + sqrt(162)) - sqrt(162))))**2.
+40*sqrt(13)/153 + 585433/23409
+Simplify (-1*sqrt(110)*6)/(sqrt(10) + sqrt(1000) + -1*sqrt(1000)) + (-4 + 1*sqrt(176))**2.
+192 - 38*sqrt(11)
+Simplify (4 + 4 + -5 + sqrt(1100) + sqrt(1100))**2 + 2.
+120*sqrt(11) + 4411

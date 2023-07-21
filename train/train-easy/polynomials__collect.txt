@@ -1,0 +1,6 @@
+Collect the terms in -84*t**3 + 164*t**3 - 82*t**3.
+-2*t**3
+Collect the terms in -2*t + 3*t + t + 2*t.
+4*t
+Collect the terms in 178*i**2 - 88*i**2 - 85*i**2.
+5*i**2

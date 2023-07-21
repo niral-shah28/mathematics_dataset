@@ -1,0 +1,6 @@
+What is prob of sequence fwc when three letters picked without replacement from qwqfiicquqqfcqqfq?
+1/680
+Calculate prob of sequence ki when two letters picked without replacement from {m: 2, o: 1, e: 1, b: 5, i: 5, k: 2}.
+1/24
+Calculate prob of sequence vpqq when four letters picked without replacement from {q: 5, p: 4, v: 8}.
+4/357

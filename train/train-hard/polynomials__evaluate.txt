@@ -1,0 +1,6 @@
+Let r(o) = 139795 - 4993*o. Calculate r(28).
+-9
+Let u(x) = x**3 + 18*x**2 - 184*x + 1697. What is u(-27)?
+104
+Let s(r) = 15446*r - 27200409. Determine s(1761).
+-3

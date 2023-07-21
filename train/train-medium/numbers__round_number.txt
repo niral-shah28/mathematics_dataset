@@ -1,0 +1,6 @@
+What is -0.0256623 rounded to 3 dps?
+-0.026
+What is -0.1541326 rounded to 3 decimal places?
+-0.154
+Round 256953500 to the nearest 1000000.
+257000000

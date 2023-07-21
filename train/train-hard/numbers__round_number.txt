@@ -1,0 +1,6 @@
+What is -0.000002298518824 rounded to seven dps?
+-0.0000023
+What is 2526338.8 rounded to the nearest ten thousand?
+2530000
+What is 3.52554975 rounded to 2 decimal places?
+3.53

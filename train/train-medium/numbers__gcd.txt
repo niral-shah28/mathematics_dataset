@@ -1,0 +1,6 @@
+What is the highest common factor of 113594 and 3094?
+442
+Calculate the greatest common factor of 20764 and 6802.
+358
+What is the highest common divisor of 46369 and 89?
+89
